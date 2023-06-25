@@ -798,6 +798,7 @@ extern const FFCodec ff_libx264rgb_encoder;
 extern FFCodec ff_libx265_encoder;
 extern const FFCodec ff_libxavs_encoder;
 extern const FFCodec ff_libxavs2_encoder;
+extern const FFCodec ff_libuavs3e_encoder;
 extern const FFCodec ff_libxvid_encoder;
 extern const FFCodec ff_libzvbi_teletext_decoder;
 
